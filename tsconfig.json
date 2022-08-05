@@ -10,6 +10,7 @@
     "noPropertyAccessFromIndexSignature": true,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
+    "strictPropertyInitialization":false, // inserted to remove the error initializer from the class constructor.
     "sourceMap": true,
     "declaration": false,
     "downlevelIteration": true,
